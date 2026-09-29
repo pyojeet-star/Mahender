@@ -9,6 +9,7 @@ npm ci
 npm run dev
 ```
 
+
 Open the local URL shown by the server, allow camera access, position the camera to show the entire doorway, and select the correct entry direction. Camera access requires localhost or HTTPS. The detection scripts and model load from the internet when the camera starts. Video stays in the browser; no footage or counts are uploaded by the app.
 
 ## Limits
